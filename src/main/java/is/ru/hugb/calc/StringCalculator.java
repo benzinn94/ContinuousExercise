@@ -14,6 +14,7 @@ public class StringCalculator {
             for (int number : numbers) {
                 sum += number;
             }
+            
             return sum;
         }
         return Integer.parseInt(input);
