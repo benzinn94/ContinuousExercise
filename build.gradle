@@ -1,0 +1,17 @@
+apply plugin: 'java-library'
+apply plugin: 'application'
+
+mainClassName = "is.ru.hugb.calc.CalcWeb"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    // Dependencies
+    compile 'com.sparkjava:spark-core:2.6.0'
+
+    // Test dependencies
+    testImplementation 'junit:junit:4.12'
+}
+
