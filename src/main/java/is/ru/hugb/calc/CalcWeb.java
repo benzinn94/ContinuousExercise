@@ -12,6 +12,7 @@ public class CalcWeb {
             "/add/:input",
             (req, res) -> add(req.params(":input"))
         );
+        
     }
 
     static int getHerokuPort() {
