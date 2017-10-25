@@ -16,7 +16,7 @@ Is a very simple Spark Web application, built with Gradle.
 Once running, head over to [localhost:4567](http://localhost:4567) and witness the magic.
 
 ## Objectives
-The objective is that the students experiment with setting up a continuous integration pipeline; from a code change to running tests automatically and getting feedback. In addition deploying a working artifact to a staging-like environment is a logical next step.
+The objective is that the students experiment with setting up a continuous integration pipeline; from a code change to running tests automatically and getting feedback. In addition deploying a working artifact to a staging-like environment is a logical next step!
 
 ## Assignment
 ### 1. Setup Travis CI for a repo
